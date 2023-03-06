@@ -14,7 +14,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -35,7 +35,7 @@ body{
 }
 
 .top{
-    background-image: url(./images/illustration-hero.svg);
+    background-image: url(images/illustration-hero.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
